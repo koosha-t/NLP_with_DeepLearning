@@ -2,5 +2,5 @@
 
 If you don't know enough about RNNs and LSTM networks, there are must-read resources: 
 
-* [I'm an inline-style link](https://www.google.com)
+* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
