@@ -15,3 +15,13 @@
 * [First Word2Vec paper](https://arxiv.org/pdf/1301.3781.pdf) from Mikolov et al.
 * [Neural Information Processing Systems, paper](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) with improvements for Word2Vec also from Mikolov et al.
 
+
+## Notebooks
+
+### Datasets
+
+* [Anna Karenina novel by Leo Tolstoy](https://www.dropbox.com/s/5wlnkk910ti6uo9/anna.txt?dl=0)
+* [Cleaned up Wikipedia article text](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/October/5bbe6499_text8/text8.zip) from [Matt Mahoney](https://twitter.com/mattmahoneyfl/)
+
+
+ 
