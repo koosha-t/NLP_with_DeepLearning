@@ -16,6 +16,10 @@
 * [Neural Information Processing Systems, paper](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) with improvements for Word2Vec also from Mikolov et al.
 
 
+### Seq2Seq Models With Attention
+* [Awesome blog](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/) with amazing illustrations explaning RNN Seq2Seq models and Attention networks.
+
+
 ## Notebooks
 
 ### Datasets
